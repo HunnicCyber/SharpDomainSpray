@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\SharpDomainSpraty\SharpDomainSpraty\bin\Debug\SharpDomainSpraty.exe.config
+C:\Users\Administrator\source\repos\SharpDomainSpraty\SharpDomainSpraty\bin\Debug\SharpDomainSpraty.exe
+C:\Users\Administrator\source\repos\SharpDomainSpraty\SharpDomainSpraty\bin\Debug\SharpDomainSpraty.pdb
+C:\Users\Administrator\source\repos\SharpDomainSpraty\SharpDomainSpraty\obj\Debug\SharpDomainSpray.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SharpDomainSpraty\SharpDomainSpraty\obj\Debug\SharpDomainSpray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SharpDomainSpraty\SharpDomainSpraty\obj\Debug\SharpDomainSpraty.exe
+C:\Users\Administrator\source\repos\SharpDomainSpraty\SharpDomainSpraty\obj\Debug\SharpDomainSpraty.pdb

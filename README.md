@@ -22,7 +22,3 @@ User: Administrator Password is: test12345!
 
 User: TestUser Password is: test12345!
 ```
-
-## Release 
-
-There is already a compiled binary in the repo

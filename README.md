@@ -22,3 +22,6 @@ User: Administrator Password is: test12345!
 
 User: TestUser Password is: test12345!
 ```
+## Author
+
+Tom Kallo
